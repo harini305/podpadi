@@ -1,0 +1,15 @@
+# dependencies and build output
+node_modules/
+.next/
+out/
+.vercel/
+
+# local tooling output
+.taste-skill/
+*.log
+
+# Large source material from the Phase 1 audit: original photos/videos (~70 MB; processed
+# copies live in public/) and screenshots of the old site, which include third-party
+# reviewer photos that must not be published. Keep these locally only.
+docs/source-audit/assets/
+docs/source-audit/screenshots/

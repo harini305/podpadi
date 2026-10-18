@@ -1,0 +1,6 @@
+# Only the app and the assets it serves are deployed.
+docs/
+scripts/
+.taste-skill/
+*.log
+README.md

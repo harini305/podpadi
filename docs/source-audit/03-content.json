@@ -1,0 +1,204 @@
+{
+  "_meta": {
+    "source": "https://www.podpadi.com",
+    "captured": "2026-10-17",
+    "method": "Server-rendered HTML + headless Chrome render (Playwright) of each route; review text transcribed from on-site review screenshot images",
+    "note": "Text is verbatim, including original spelling, capitalisation and punctuation. Line breaks in source are shown as \\n. Do not 'correct' facts without business confirmation (see 08-issues-gaps-questions.md)."
+  },
+  "business": {
+    "trading_names_seen": ["Podpadi", "PodPadi", "Pod Padi (in a guest review)", "Podpadi Ubud", "Podpadi Design Spaces", "podpadiubud (Wix site name)", "Be Our Guest in Podpadi, Ubud (Google Map pin label)"],
+    "legal_or_display_name_on_contact": "Podpadi Design Spaces",
+    "address": "Jl. Katik Lantang No.8, Singakerta, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
+    "village": "Katik Lantang",
+    "phone_whatsapp": "+62 812-3737-7601",
+    "phone_contact_person": "Made",
+    "email": "podpadi.ubud@gmail.com",
+    "map": { "lat": -8.515517299999999, "lng": 115.2515506, "pin_title": "Be Our Guest in Podpadi, Ubud", "pin_description": "Located only 10mins from Central Ubud" },
+    "social": {
+      "facebook": "https://www.facebook.com/podpadibali/",
+      "instagram": "https://www.instagram.com/podpadiubud/",
+      "airbnb_profile": "https://www.airbnb.com/users/show/316765227",
+      "airbnb_listing": "https://www.airbnb.com/rooms/1026411473814272071?guests=1&adults=1&s=67&unique_share_id=f6e573e0-87ec-4e95-938c-85fde1e07263"
+    },
+    "host": "Made (host and manager)",
+    "airbnb_rating_claim": "4.96 average Airbnb rating; 133 reviews; 'Guest favorite' (as shown in review screenshots, captured by the owner in or before March 2025)",
+    "airbnb_subscores_in_screenshot": { "Cleanliness": "4.9", "Accuracy": "5.0", "Check-in": "5.0", "Communication": "5.0", "Location": "4.8", "Value": "4.9" }
+  },
+  "global": {
+    "navigation": [
+      { "label": "HOME", "href": "/" },
+      { "label": "ABOUT", "href": "/copy-of-see-do" },
+      { "label": "BOOK A ROOM", "href": "/booking-engine" },
+      { "label": "GALLERY", "href": "/gallery" },
+      { "label": "SERVICES", "href": "/about" },
+      { "label": "SEE & DO", "href": "/see-do" },
+      { "label": "CONTACT", "href": "/contact" }
+    ],
+    "header_social_icons": ["Facebook", "Airbnb (profile)", "Instagram"],
+    "footer": "© 2024 by Podpadi Design Spaces . Powered and secured by Wix",
+    "chat_widget": "Wix Chat (floating button, bottom-right, every page)"
+  },
+  "pages": {
+    "/": {
+      "seo_title": "HOME | podpadiubud",
+      "meta_description": "Podpadi Ubud is a hidden gem located in a serene and tranquil setting, offering breathtaking views of the majestic Mount Agung and the vibrant green rice fields. Surrounded by nature, this peaceful retreat provides the perfect escape from the hustle and bustle of daily life. Whether you’re looking to unwind, explore the local culture, or simply enjoy the beauty of Ubud, Podpadi offers a unique and immersive experience that allows you to connect with the beauty of Bali’s natural landscape.",
+      "hero": {
+        "logotype_line_1": "podpadi",
+        "logotype_line_2": "design spaces",
+        "tagline": "Step Into Tranquility",
+        "booking_widget_labels": ["Check-in and check-out", "Rooms and guests", "Search"],
+        "booking_widget_defaults": "today → tomorrow, 1 room, 2 adults"
+      },
+      "share_buttons": ["Facebook", "WhatsApp", "Copy link"]
+    },
+    "/copy-of-see-do": {
+      "nav_label": "ABOUT",
+      "seo_title": "ABOUT | podpadiubud",
+      "meta_description": null,
+      "sections": [
+        {
+          "heading": "Hello!",
+          "body": "I’m Made, your host and the manager of Podpadi. Our goal is simple yet profound: to assure that our guests have a delightful and unforgettable experience while staying with us. We understand that a great stay is about more than just comfortable accommodations;\nit’s about creating lasting memories. We take great pride in our hospitality whether it's providing personalized recommendations or attending to your needs, we are here to make your visit unforgettable."
+        },
+        {
+          "heading": "Our Story",
+          "body": "We're a group of hospitality innovators with expertise in property management, architecture, and design. We've been leading the charge in creating the vision for PodPadi, and we're excited to bring it to life for you. Our dedicated team are here to ensure that you have the best possible experience, both in person and virtually. We are eagerly anticipating your arrival and committed to delivering exceptional customer service throughout your stay.\""
+        },
+        {
+          "heading": "Beautiful Words From Our Guests!",
+          "subheading": "Our property boasts a solid reputation, with an average Airbnb rating of 4.96 from our guests",
+          "reviews_presentation": "3-slide slideshow of Airbnb review screenshots (images, not text)"
+        },
+        {
+          "heading": "Looking for more reviews?\nClick on our Airbnb Profile!",
+          "cta": "Airbnb badge image linking to the Airbnb listing URL"
+        }
+      ]
+    },
+    "/booking-engine": {
+      "nav_label": "BOOK A ROOM",
+      "seo_title": "BOOK A ROOM | podpadiubud",
+      "meta_description": "We'd love to have you stay with us for an unforgettable experience!",
+      "heading": "BOOK A ROOM",
+      "widget": "Wix Hotels by HotelRunner",
+      "widget_ui_labels": ["Check-in and check-out", "Rooms and guests", "Search", "Select rooms", "Room unavailable", "More details", "Contact", "Your reservation", "Check-in", "Check-out", "Please add rooms", "Add promo code", "Enter code", "Apply", "Total", "$0.00", "Continue", "Room 1", "Adults", "Add room", "Close", "Overview", "About this room", "Read more", "Amenities"],
+      "hidden_widget_links": ["Reservation", "Packages & Deals", "Availability Calendar"],
+      "contact_modal": "Can't find what you're looking for?\n\nContact us, we can help.\n+62 812-3737-7601 | podpadi.ubud@gmail.com\n\nDone",
+      "currency_shown": "USD ($)",
+      "rooms": [
+        {
+          "order": 1,
+          "name": "Your Perfect Private Retreat Awaits – Ideal for Groups of Friends, Special Events, and Ultimate Relaxation, Comfortably Hosting 14 Guests",
+          "max_adults": 14, "bedrooms": 7, "size_m2": 45,
+          "description": "The property features 4 One Bedroom Villas and a 3 Bedroom Family Villa, each equipped with its own private pool and ensuite bathrooms. With accommodations for up to 14 people, our space is ideal for groups, retreats, large families, and gatherings of friends. Whether you’re seeking a tranquil escape or a social gathering, our property offers the perfect setting for unforgettable memories.",
+          "amenities": ["King", "Twin", "Mountain view", "Pool view", "Kitchenette", "Balcony", "Bathroom with bathtub", "Bathroom with shower", "Bathroom with window", "Breakfast area", "Equipped kitchen", "Seating area", "Wireless internet", "Fridge", "Iron for pants", "Iron with ironing board", "Microwave oven", "Fan", "Individually controlled air conditioning", "Full-length mirror", "Desk", "Hairdryer", "Hairdryer on request", "High ceiling", "Room safe", "Non-smoking", "Pets allowed", "Private bathroom", "Bidet", "Free toiletries", "Courtyard view", "Bedlinen", "Baby cot"],
+          "photos": 5, "availability_tested": "Room unavailable (2026-10-17→18 and 2026-12-16→18, 2 adults)"
+        },
+        {
+          "order": 2,
+          "name": "Relax in a Charming Boutique Villa Nestled in Rice Fields, Featuring a Private Pool",
+          "max_adults": 2, "bedrooms": null, "size_m2": 45,
+          "description": "The property features 4 One Bedroom Villas and a 3 Bedroom Family Villa, each equipped with its own private pool and ensuite bathrooms. With accommodations for up to 14 people, our space is ideal for groups, retreats, large families, and gatherings of friends. Whether you’re seeking a tranquil escape or a social gathering, our property offers the perfect setting for unforgettable memories.",
+          "amenities": ["King", "Pool view", "Bathroom with bathtub", "Bathroom with shower", "Seating area", "Internet access", "Wireless internet", "Fridge", "Iron for pants", "Iron with ironing board", "Fan", "Individually controlled air conditioning", "Openable windows", "Hairdryer", "High ceiling", "Room safe", "Non-smoking", "Pets allowed", "Private bathroom", "Bidet", "Free toiletries", "Kettle", "Baby cot"],
+          "photos": 4, "availability_tested": "Room unavailable"
+        },
+        {
+          "order": 3,
+          "name": "Escape to a Boutique Villa Surrounded by Rice Fields, Complete with Your Own Private Pool",
+          "max_adults": 2, "bedrooms": null, "size_m2": 45,
+          "description": "Escape to the ultimate luxury of a private villa with your own personal pool. Perfectly designed for twin sharing, our accommodations are tailored to cater to a maximum of 2 guests, ensuring a truly intimate and exclusive experience.",
+          "amenities": ["King", "Balcony", "Bathroom with bathtub", "Seating area", "Bedside telephone", "Cable TV", "Wireless internet", "Minibar", "Centrally controlled air conditioning", "Hairdryer", "Room safe", "Non-smoking"],
+          "photos": 4, "availability_tested": "Room unavailable"
+        },
+        {
+          "order": 4,
+          "name": "Family Getaway A 3-Bedroom Villa with Private Pool, Lounge Area, and Kitchenette",
+          "max_adults": 6, "bedrooms": 3, "size_m2": 200,
+          "description": "The property comprises of 4 One Bedroom Villas, in addition to a 3 Bedroom Family Villa, all of which are furnished with private pools and en suite bathrooms. With accommodations to fit up to 14 people, our space is ideal for groups, retreats, large families, and gatherings of friends. Whether you’re seeking a tranquil escape or a social gathering, our property offers the perfect setting for unforgettable memories.\n\nEscape to the ultimate luxury of a private villa with its own personal pool. Perfectly designed for twin sharing, our accommodations are tailored to cater to a maximum of 6 guests, ensuring a truly intimate and exclusive experience.",
+          "amenities": ["King", "Twin", "Balcony", "Bathroom with shower", "Seating area", "Bedside telephone", "Cable TV", "Wireless internet", "Minibar", "Centrally controlled air conditioning", "Hairdryer", "Room safe"],
+          "photos": 8, "availability_tested": "Room unavailable"
+        }
+      ],
+      "prices": "None displayed (all rooms 'Room unavailable'; total $0.00)"
+    },
+    "/gallery": {
+      "nav_label": "GALLERY",
+      "seo_title": "GALLERY | podpadiubud",
+      "meta_description": null,
+      "heading": "Gallery",
+      "slideshow_captions_in_order_observed": [
+        "(no caption) — aerial view, couple in hammock",
+        "Unwind in our hammock by the main pool, where you can gaze out over the lush rice fields",
+        "Create an unforgettable breakfast experience with us",
+        "Find your calm in our yoga space",
+        "Sharing great moments with friends at the pool",
+        "Find your bliss in our hammock by the main pool, perfectly positioned to overlook the picturesque rice fields",
+        "Savoring fun times with friends by the pool area",
+        "Enjoy a delightful breakfast experience at the Main Pool, where your meal floats alongside you",
+        "Embrace serenity in our yoga shala"
+      ],
+      "slideshow_count": "9 (counter 1/9 … 9/9 observed; exact order of slides 3–9 not verified)",
+      "social_prompt": "Stay connected with us for more exciting videos and photos through our social media channels",
+      "videos": ["Pool walk (file label '90783346_520554968880691_80037…')", "Hammock deck (file label 'IMG_6845.mp4')"]
+    },
+    "/about": {
+      "nav_label": "SERVICES",
+      "seo_title": "SERVICES | podpadiubud",
+      "meta_description": "We offer a range of additional services to enhance your stay, including daily housekeeping, laundry, airport transfers, and tour guide services, all available for an additional fee. ",
+      "heading": "OUR SERVICES",
+      "tiles_desktop_order": ["BREAKFAST", "DAILY HOUSEKEEPING", "POOL & LOUNGE", "FREE WIFI 250mbps", "AIRPORT TRANSFER"],
+      "tiles_mobile_order": ["BREAKFAST", "DAILY HOUSEKEEPING", "POOL & LOUNGE", "AIRPORT TRANSFER", "FREE WIFI 250mbps"],
+      "service_descriptions_on_page": "None — tiles are icon + label only"
+    },
+    "/see-do": {
+      "nav_label": "SEE & DO",
+      "seo_title": "SEE & DO | podpadiubud",
+      "meta_description": "Only 2.5 km from Ubud Center for shopping, hiking at Campuhan Ridge, or simply strolling through the rice fields. Plus, water rafting activities are just a short distance away!",
+      "heading": "THINGS TO DO",
+      "tiles_desktop_order": ["BREATHTAKING SUNRISE VIEWS", "2.5KM TO UBUD CENTRAL", "RICE FIELD WALKS", "RAFTING", "YOGA"],
+      "activity_descriptions_on_page": "None — tiles are icon + label only"
+    },
+    "/contact": {
+      "nav_label": "CONTACT",
+      "seo_title": "CONTACT | podpadiubud",
+      "meta_description": "For any inquiries or assistance, you can reach us via email at podpadi.ubud@gmail.com. If you need a faster response or have urgent matters to discuss, please don't hesitate to contact us through WhatsApp at +62 812-3737-7601. We're here to help and ensure you have a seamless experience. Feel free to get in touch anytime!",
+      "heading": "GET IN TOUCH WITH US",
+      "intro": "Step into a charming property situated in the tranquil\nand picturesque village of Katik Lantang, just a short 10-minute ride from Central Ubud.\nSurrounded by the breathtaking rice fields that Ubud is known for.\nPodpadi provides the ideal blend of comfort and\nseclusion for you and your loved ones.",
+      "prompt": "FOR ANY INQUIRIES OR FURTHER DETAILS, PLEASE REACH OUT TO US:",
+      "form_fields": [
+        { "label": "First name", "type": "text", "required": true },
+        { "label": "Last name", "type": "text", "required": true },
+        { "label": "Email", "type": "email", "required": true },
+        { "label": "Phone", "type": "tel with country-code selector", "required": false },
+        { "label": "Type your message here...", "type": "textarea", "required": false }
+      ],
+      "form_submit_label": "Submit",
+      "contact_block": "CONTACT US\nPodpadi Design Spaces\nJl. Katik Lantang No.8, Singakerta, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia\nCell/Whatsapp : +62 812-3737-7601 (Made)\nemail: podpadi.ubud@gmail.com",
+      "closing_line": "2023 Be Our Guest in Podpadi, Ubud",
+      "note": "'CONTACT US' heading is a link to the homepage (https://www.podpadi.com)"
+    }
+  },
+  "reviews_transcribed_from_screenshots": {
+    "_source": "assets/reviews/about-reviews-slide-{1,2,3}.png (Airbnb screenshots shown on /copy-of-see-do). Verbatim, including typos. Reviewer photos are third-party personal images — do not reuse.",
+    "slide_1": [
+      { "name": "Shannon", "meta": "7 years on Airbnb", "date": "November 2024", "stars": 5, "text": "Incredible stay in Ubud, Made was a great host and it was a pleasure to stay - only wish we had longer." },
+      { "name": "Marco", "meta": "13 years on Airbnb", "date": "November 2024", "stars": 5, "text": "Such a beautiful property, everything was great and exactly as in the pictures. While the access road is about a minute walk only accessible by foot and motorcycles (common for rice paddy villas), it’s paved and they’re always happy to assist with your luggage. Close to a handful of restaurants and easily located when catching a grab/gojek. Terima kasih" },
+      { "name": "Lígia", "meta": "Norwalk, Connecticut", "date": "November 2024", "stars": 5, "text": "An unforgettable stay! The property is stunning, serene, and impeccably maintained. The staff went above and beyond with their efficiency and kindness. Three days felt far too short in this little slice of paradise!" },
+      { "name": "Callum", "meta": "11 years on Airbnb", "date": "November 2024", "stars": 5, "text": "We loved staying somewhere so quiet, calm and private, with a beautiful view but only a short ride into town." },
+      { "name": "Dahlia", "meta": "Dallas, Texas", "date": "October 2024", "stars": 5, "text": "The hosts and workers were super nice and accommodating! Breakfast was very tasty as well. The villa itself is beautiful and very clean. The space around as well is nice. Not too far from everything either but still secluded away in its own spot ! Definitely would recommend if you’re looking for a villa in ubud!" }
+    ],
+    "slide_2": [
+      { "name": "Lorena", "meta": "7 years on Airbnb", "date": "2 weeks ago (relative date at time of screenshot)", "stars": 5, "text": "We LOVED it here! We were for almost 4 months in Asia and this was without doubt, the best Airbnb where we stayed at.\nThe views from the pool are amazing and the staff is incredible (they are so attentive! Plus via phone we got all the information we needed from the appartment and things to do in Ubud + the owner replied really fast)\nThe Bungalow has charm and everything was so clean and beautiful! There’s nothing we can complain about.\nFor sure we will go back when we visit Ubud again :)." },
+      { "name": "Ryan", "meta": "Dubai, United Arab Emirates", "date": "January 2025", "stars": 5, "text": "We had a lovely time at Pod Padi and Made was very helpful arranging transport throughout our time. The villa has breakfast options in the morning." },
+      { "name": "Kangozhayev", "meta": "Almaty, Kazakhstan", "date": "January 2025", "stars": 5, "text": "Chic place, thank you Made, everything was great😍😍😍", "translated_from": "Russian" },
+      { "name": "Alan", "meta": "10 years on Airbnb", "date": "December 2024", "stars": 5, "text": "Perfect stay in a very peaceful part of Ubud away from the noise and business of the town. Super host. Proactive and helpful. Wouldn’t hesitate to return" },
+      { "name": "Mikala", "meta": "9 years on Airbnb", "date": "December 2024", "stars": 5, "text": "Beautiful location! The host Made was so nice and helpful. Will definitely be back :)" }
+    ],
+    "slide_3": [
+      { "name": "Marina", "meta": "9 years on Airbnb", "date": "October 2024", "stars": 5, "text": "Friendly and communicative staff, clean and practical room, and lovely space! Great to have a private pool and also the shared pool with views to the rice fields" },
+      { "name": "Kasper", "meta": "11 years on Airbnb", "date": "October 2024", "stars": 5, "text": "Incredible resort\nStaff is so friendly and helpful\nThey made my girlfriends birthday a day to remember by decorating the pool with thousands of flowers.\nThank you so very much for a peaceful stay!\nWill be returning" },
+      { "name": "Pauline", "meta": "9 years on Airbnb", "date": "October 2024", "stars": 5, "text": "Nice, stylish place with dedicated staff. Clean, well-maintained and simply chic. Very tasty breakfast and juices!", "translated_from": "German" },
+      { "name": "Abhishek", "meta": "9 years on Airbnb", "date": "October 2024", "stars": 5, "text": "We stayed at different places during our trip to Bali and we're glad we had our longest stay here in Ubud. The property is gorgeous, serene and extremely well maintained. As soon as you enter the compound, you're greeted by a lovely swimming pool overlooking the lush green ricefields. BONUS TIP: Wake up by 6 and rush to the pool area to catch a lovely sunset view.\nBut really, the biggest highlight is the host - Made, one of the nicest and most helpful hosts we've met. The property is a bit tricky to locate when you arrive the first time but Made was in touch with us throughout, proactively reaching out to us to confirm if we need any help witj transport or directions. He remained available for any help we needed and ensured we have the most comfortable stay possible.", "truncation": "Text may continue below the screenshot crop" }
+    ]
+  }
+}
