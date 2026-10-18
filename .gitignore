@@ -13,3 +13,6 @@ out/
 # reviewer photos that must not be published. Keep these locally only.
 docs/source-audit/assets/
 docs/source-audit/screenshots/
+
+.vercel
+.env*
